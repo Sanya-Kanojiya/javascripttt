@@ -1,2 +1,2 @@
 # javascripttt
-sb badhiya
+here are some basics of js
